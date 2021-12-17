@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javaee-api-8.0-5-tomcat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Программы/apache-tomee-plume-8.0.8/lib/javaee-api-8.0-5-tomcat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Программы/apache-tomee-plume-8.0.8/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Программы/apache-tomee-plume-8.0.8/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
